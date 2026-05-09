@@ -2,6 +2,19 @@
 - figures (fig) - canvas that everything visualization related it is put on
 - axis - represents it you have multiple figures on the same plot.
 
+- # Parts of  a matplotlib plot:
+-   figures (fig) - canvas that everything visualization related it is put on
+-   axes - represents it you have multiple figures on the same plot.
+-   axis - edges of your axes/plot, labels, titles, tick marks
+
+### Basic Data Analysis Env Libraries
+-   ipykernel - using jupyterNotebook
+-   pandas - managing data structures
+-   numpy - numerical operations (works with pandas)
+-   matplotlib - data visualizations
+
+-   `pip install pandas numpy matplotlib ipykernel.`
+
 # MATPLOTLIB_BASIC
 
 A beginner-friendly Python project for learning and practicing data visualization using Matplotlib.
